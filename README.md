@@ -169,7 +169,7 @@ app/
 
 ## Author
 
-**Saurabh Tiwari**
+**Prateek Tiwari**
 Software Developer | Computer Science Student
 
 Built with dedication to help students
